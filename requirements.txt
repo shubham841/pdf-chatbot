@@ -1,8 +1,14 @@
 langchain
 langchain-community
-langchain-google-genai
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
 faiss-cpu
-pypdf
+pdfplumber
 sentence-transformers
 streamlit
 python-dotenv
+huggingface-hub
+transformers
+torch
